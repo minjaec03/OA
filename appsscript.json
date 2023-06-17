@@ -1,0 +1,25 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "정렬",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "sort",
+      "functionName": "sort"
+    }, {
+      "menuName": "autocrat실행",
+      "functionName": "myFunction1"
+    }, {
+      "menuName": "autocrat",
+      "functionName": "autocrat1"
+    }, {
+      "menuName": "숫자서식",
+      "functionName": "myFunction1"
+    }]
+  }
+}
